@@ -1,2 +1,2 @@
-# ComputacionalActividad1
-Actividad 1, grupo 2, Física computacional
+# Actividad 1y2
+Actividad 1y2, Física computacional
